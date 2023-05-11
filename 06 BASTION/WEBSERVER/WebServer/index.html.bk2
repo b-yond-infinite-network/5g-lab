@@ -1,0 +1,21 @@
+<html>
+	<header><title>B-Yond 5GLaaS</title></header>
+	<body text="black"><H1>
+
+			5GLaaS Portal Demo V0.10
+		</H1>
+		<p><a href="https://www.localhost:80000/TraceOpen5GS.sh">Execute 5G!</a></p>
+
+<?php
+if ($_GET['run']) {
+  # This code will run if ?run=true is set.
+  exec("/home/ubuntu/bash.sh");
+}
+?>
+
+<!-- This link will add ?run=true to your URL, myfilename.php?run=true -->
+<a href="?run=true">Click Me!</a>
+
+
+	</body>
+</html>

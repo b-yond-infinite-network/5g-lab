@@ -1,0 +1,12 @@
+#!/bin/bash 
+killall open5gs-amfd
+killall open5gs-smfd
+killall open5gs-nrfd
+killall open5gs-ausfd
+killall open5gs-udmd
+killall open5gs-pcfd
+killall open5gs-nssfd
+killall open5gs-bsfd
+killall open5gs-udrd
+sudo rm -f /var/tmp/logfile
+

@@ -1,0 +1,22 @@
+{
+  "name": "laas-genesis-gui",
+  "version": "1.0.0",
+  "description": "gui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hola mundo\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanantono/laas-genesis-gui.git"
+  },
+  "keywords": [
+    "gui"
+  ],
+  "author": "jamd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanantono/laas-genesis-gui/issues"
+  },
+  "homepage": "https://github.com/juanantono/laas-genesis-gui#readme"
+}

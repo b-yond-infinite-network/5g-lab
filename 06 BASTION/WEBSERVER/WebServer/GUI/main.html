@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>(5G LaaS) GUI</title>
+  <style>
+    /* Header styles */
+    .header {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    /* Menu styles */
+    .menu {
+      float: left;
+      background-color: #f1f1f1;
+      width: 20%;
+      height: 500px;
+      overflow-y: auto;
+    }
+    
+    /* Content styles */
+    .middle {
+      float: left;
+      width: 80%;
+      height: 500px;
+    }
+  </style>
+</head>
+
+<html>
+  <body>
+    <div class="header" id="header">
+		<h1>LAAS-GENESIS Web portal v1.0</h1>
+		<h3>[Mobile Network] 5G Lab as a Service Initiative</h3>
+		<a href="https://www.b-yond.com/" target="_blank">B-Yond</a>
+		<a href="https://www.reailize.com/" target="_blank">Reailize</a>
+    </div>
+
+    <div class="menu" id="menu">
+		<p>MENU</p>
+		<a href="http://10.0.100.34/middle-healthchecks.html" target="middle-frame">Health Checks</a><br>
+		<a href="http://10.0.100.34/middle-manual.html" target="middle-frame">Manual tests</a><br>
+		<a href="http://10.0.100.34/middle-provisioning.html" target="middle-frame">Subscriber provisioning</a><br>
+		<a href="http://10.0.100.34/middle-about.html" target="middle-frame">About</a><br>
+    </div>
+
+    <div class="middle" id="middle">
+		<iframe id="middle-frame" src="http://10.0.100.34/middle-main.html" name="middle-frame" width=100% height=100%></iframe>
+    </div>
+  </body>
+</html>
+

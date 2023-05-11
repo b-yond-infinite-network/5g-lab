@@ -1,0 +1,5 @@
+[options]
+prefix = /home/up/Desktop/open5gs/install
+
+[properties]
+

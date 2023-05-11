@@ -1,0 +1,599 @@
+2023-03-23 13:35:47 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-23 13:35:47.882] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+2023-03-23 13:40:51 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-23 13:40:51.106] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-23 13:40:51.108] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-23 13:40:51.108] [sctp] [debug] SCTP association setup ascId[228]
+[2023-03-23 13:40:51.109] [ngap] [debug] Sending NG Setup Request
+[2023-03-23 13:40:51.109] [ngap] [debug] NG Setup Response received
+[2023-03-23 13:40:51.109] [ngap] [info] NG Setup procedure is successful
+2023-03-23 13:45:39 Stopping all gNBs
+2023-03-23 13:50:52 already have 0 gNB instances running, starting one more instance
+2023-03-23 13:53:14 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-23 13:53:14.843] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-23 13:53:14.845] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-23 13:53:14.846] [sctp] [debug] SCTP association setup ascId[229]
+[2023-03-23 13:53:14.846] [ngap] [debug] Sending NG Setup Request
+[2023-03-23 13:53:14.846] [ngap] [debug] NG Setup Response received
+[2023-03-23 13:53:14.846] [ngap] [info] NG Setup procedure is successful
+2023-03-23 14:14:38 Stopping all gNBs
+2023-03-23 14:27:27 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-23 14:27:27.423] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+2023-03-23 16:29:29 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-23 16:29:29.984] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-23 16:29:29.986] [sctp] [error] Connecting to 10.0.0.6:38412 failed. SCTP could not connect: Connection refused
+2023-03-23 16:51:15 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-23 16:51:15.787] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-23 16:51:15.789] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-23 16:51:15.790] [sctp] [debug] SCTP association setup ascId[232]
+[2023-03-23 16:51:15.790] [ngap] [debug] Sending NG Setup Request
+[2023-03-23 16:51:15.790] [ngap] [debug] NG Setup Response received
+[2023-03-23 16:51:15.790] [ngap] [info] NG Setup procedure is successful
+2023-03-23 16:51:46 Stopping all gNBs
+2023-03-23 16:54:32 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+2023-03-24 07:36:37 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-24 07:36:37.629] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 07:36:37.631] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 07:36:37.631] [sctp] [debug] SCTP association setup ascId[233]
+[2023-03-24 07:36:37.631] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 07:36:37.631] [ngap] [debug] NG Setup Response received
+[2023-03-24 07:36:37.631] [ngap] [info] NG Setup procedure is successful
+[2023-03-24 07:54:10.166] [rrc] [debug] UE[1] new signal detected
+[2023-03-24 07:54:10.166] [rrc] [info] RRC Setup for UE[1]
+[2023-03-24 07:54:10.166] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-03-24 07:54:10.171] [ngap] [debug] UE Context Release Command received
+[2023-03-24 07:54:10.171] [rrc] [info] Releasing RRC connection for UE[1]
+[2023-03-24 07:54:11.172] [rrc] [debug] UE[2] new signal detected
+[2023-03-24 07:54:12.174] [rls] [debug] UE[1] signal lost
+[2023-03-24 08:11:45.581] [rrc] [debug] UE[3] new signal detected
+[2023-03-24 08:11:45.582] [rrc] [info] RRC Setup for UE[3]
+[2023-03-24 08:11:45.582] [ngap] [debug] Initial NAS message received from UE[3]
+[2023-03-24 08:11:45.593] [ngap] [debug] Initial Context Setup Request received
+[2023-03-24 08:11:45.805] [ngap] [info] PDU session resource(s) setup for UE[3] count[1]
+[2023-03-24 08:20:52.299] [rls] [debug] UE[2] signal lost
+[2023-03-24 08:20:53.300] [rls] [debug] UE[3] signal lost
+2023-03-24 08:25:39 Starting trace on UE and gNB
+tcpdump: listening on any, link-type LINUX_SLL (Linux cooked v1), capture size 262144 bytes
+[2023-03-24 08:30:30.962] [rrc] [debug] UE[4] new signal detected
+[2023-03-24 08:30:30.964] [rrc] [info] RRC Setup for UE[4]
+[2023-03-24 08:30:30.965] [ngap] [debug] Initial NAS message received from UE[4]
+[2023-03-24 08:30:30.965] [ngap] [debug] UE Context Release Command received
+[2023-03-24 08:30:30.965] [rrc] [info] Releasing RRC connection for UE[3]
+[2023-03-24 08:30:30.976] [ngap] [debug] Initial Context Setup Request received
+[2023-03-24 08:30:31.186] [ngap] [info] PDU session resource(s) setup for UE[4] count[1]
+[2023-03-24 09:32:34.931] [rls] [debug] UE[4] signal lost
+2023-03-24 09:32:43 Stopping the trace on UE and gNB
+12544 packets captured
+20832 packets received by filter
+0 packets dropped by kernel
+2023-03-24 10:33:32 Stopping all gNBs
+2023-03-24 10:34:33 already have 0 gNB instances running, starting one more instance
+ERROR: Field 'tac' has invalid type.
+UERANSIM v3.2.6
+[2023-03-24 10:34:33.384] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 10:34:33.386] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 10:34:33.386] [sctp] [debug] SCTP association setup ascId[234]
+[2023-03-24 10:34:33.386] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 10:34:33.387] [ngap] [debug] NG Setup Response received
+[2023-03-24 10:34:33.387] [ngap] [info] NG Setup procedure is successful
+2023-03-24 10:36:59 already have 1 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-24 10:36:59.234] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+UERANSIM v3.2.6
+[2023-03-24 10:36:59.235] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-24 10:36:59.235] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 10:36:59.235] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 10:36:59.235] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 10:36:59.235] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 10:36:59.238] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 10:36:59.238] [sctp] [debug] SCTP association setup ascId[235]
+[2023-03-24 10:36:59.238] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 10:36:59.238] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 10:36:59.238] [sctp] [debug] SCTP association setup ascId[236]
+[2023-03-24 10:36:59.238] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 10:36:59.238] [ngap] [debug] NG Setup Response received
+[2023-03-24 10:36:59.239] [ngap] [info] NG Setup procedure is successful
+[2023-03-24 10:36:59.239] [ngap] [error] NG Setup procedure is failed. Cause: misc/unknown-PLMN
+2023-03-24 10:37:47 Stopping all gNBs
+2023-03-24 10:38:27 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-24 10:38:27.510] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+UERANSIM v3.2.6
+[2023-03-24 10:38:27.510] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-24 10:38:27.510] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 10:38:27.511] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 10:38:27.513] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 10:38:27.513] [sctp] [debug] SCTP association setup ascId[237]
+[2023-03-24 10:38:27.513] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 10:38:27.514] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 10:38:27.514] [sctp] [debug] SCTP association setup ascId[238]
+[2023-03-24 10:38:27.514] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 10:38:27.514] [ngap] [error] NG Setup procedure is failed. Cause: misc/unknown-PLMN
+[2023-03-24 10:38:27.514] [ngap] [debug] NG Setup Response received
+[2023-03-24 10:38:27.514] [ngap] [info] NG Setup procedure is successful
+2023-03-24 11:36:59 already have 2 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+UERANSIM v3.2.6
+[2023-03-24 11:36:59.597] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-24 11:36:59.597] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-24 11:36:59.597] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 11:36:59.597] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 11:36:59.597] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 11:36:59.597] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 11:36:59.600] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 11:36:59.601] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 11:36:59.601] [sctp] [debug] SCTP association setup ascId[239]
+[2023-03-24 11:36:59.601] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 11:36:59.601] [sctp] [debug] SCTP association setup ascId[240]
+[2023-03-24 11:36:59.601] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 11:36:59.601] [ngap] [error] NG Setup procedure is failed. Cause: misc/unknown-PLMN
+[2023-03-24 11:36:59.601] [ngap] [debug] NG Setup Response received
+[2023-03-24 11:36:59.601] [ngap] [info] NG Setup procedure is successful
+2023-03-24 11:37:54 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-24 11:37:54.232] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+UERANSIM v3.2.6
+[2023-03-24 11:37:54.232] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-24 11:37:54.233] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 11:37:54.233] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 11:37:54.235] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 11:37:54.235] [sctp] [debug] SCTP association setup ascId[241]
+[2023-03-24 11:37:54.235] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 11:37:54.236] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 11:37:54.236] [sctp] [debug] SCTP association setup ascId[242]
+[2023-03-24 11:37:54.236] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 11:37:54.236] [ngap] [error] NG Setup procedure is failed. Cause: misc/unknown-PLMN
+[2023-03-24 11:37:54.236] [ngap] [debug] NG Setup Response received
+[2023-03-24 11:37:54.236] [ngap] [info] NG Setup procedure is successful
+[2023-03-24 11:41:03.884] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-24 11:41:03.884] [ngap] [error] Association terminated for AMF[2]
+[2023-03-24 11:41:03.884] [ngap] [debug] Removing AMF context[2]
+[2023-03-24 11:41:03.885] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-24 11:41:03.885] [ngap] [error] Association terminated for AMF[2]
+[2023-03-24 11:41:03.885] [ngap] [debug] Removing AMF context[2]
+2023-03-24 11:45:02 Stopping all gNBs
+2023-03-24 11:45:11 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+UERANSIM v3.2.6
+[2023-03-24 11:45:11.209] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-24 11:45:11.209] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 11:45:11.209] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 11:45:11.209] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 11:45:11.212] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 11:45:11.212] [sctp] [debug] SCTP association setup ascId[243]
+[2023-03-24 11:45:11.212] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 11:45:11.212] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 11:45:11.212] [sctp] [debug] SCTP association setup ascId[244]
+[2023-03-24 11:45:11.212] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 11:45:11.213] [ngap] [debug] NG Setup Response received
+[2023-03-24 11:45:11.213] [ngap] [info] NG Setup procedure is successful
+[2023-03-24 11:45:11.213] [ngap] [debug] NG Setup Response received
+[2023-03-24 11:45:11.213] [ngap] [info] NG Setup procedure is successful
+2023-03-24 12:06:37 already have 2 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-24 12:06:37.805] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-24 12:06:37.805] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 12:06:37.805] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+UERANSIM v3.2.6
+[2023-03-24 12:06:37.806] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-24 12:06:37.806] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 12:06:37.806] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 12:06:37.809] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 12:06:37.809] [sctp] [debug] SCTP association setup ascId[245]
+[2023-03-24 12:06:37.809] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 12:06:37.809] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 12:06:37.809] [sctp] [debug] SCTP association setup ascId[246]
+[2023-03-24 12:06:37.809] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 12:06:37.809] [ngap] [debug] NG Setup Response received
+[2023-03-24 12:06:37.809] [ngap] [info] NG Setup procedure is successful
+[2023-03-24 12:06:37.810] [ngap] [debug] NG Setup Response received
+[2023-03-24 12:06:37.810] [ngap] [info] NG Setup procedure is successful
+[2023-03-24 12:36:34.108] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-24 12:36:34.108] [ngap] [error] Association terminated for AMF[2]
+[2023-03-24 12:36:34.108] [ngap] [debug] Removing AMF context[2]
+[2023-03-24 12:36:34.108] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-24 12:36:34.108] [sctp] [warning] Unhandled SCTP notification received
+[2023-03-24 12:36:34.108] [ngap] [error] Association terminated for AMF[2]
+[2023-03-24 12:36:34.108] [ngap] [debug] Removing AMF context[2]
+[2023-03-24 12:36:34.112] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-24 12:36:34.112] [sctp] [warning] Unhandled SCTP notification received
+[2023-03-24 12:36:34.112] [ngap] [error] Association terminated for AMF[2]
+[2023-03-24 12:36:34.112] [ngap] [debug] Removing AMF context[2]
+[2023-03-24 12:36:34.112] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-24 12:36:34.112] [sctp] [warning] Unhandled SCTP notification received
+[2023-03-24 12:36:34.112] [ngap] [error] Association terminated for AMF[2]
+[2023-03-24 12:36:34.112] [ngap] [debug] Removing AMF context[2]
+2023-03-24 13:08:29 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+UERANSIM v3.2.6
+[2023-03-24 13:08:29.468] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-24 13:08:29.468] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-24 13:08:29.468] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 13:08:29.469] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 13:08:29.472] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 13:08:29.472] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 13:08:29.472] [sctp] [debug] SCTP association setup ascId[247]
+[2023-03-24 13:08:29.472] [sctp] [debug] SCTP association setup ascId[248]
+[2023-03-24 13:08:29.472] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 13:08:29.472] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 13:08:29.472] [ngap] [debug] NG Setup Response received
+[2023-03-24 13:08:29.472] [ngap] [debug] NG Setup Response received
+[2023-03-24 13:08:29.472] [ngap] [info] NG Setup procedure is successful
+[2023-03-24 13:08:29.472] [ngap] [info] NG Setup procedure is successful
+2023-03-24 13:10:14 Stopping all gNBs
+2023-03-24 13:10:28 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-24 13:10:28.196] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-24 13:10:28.198] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-24 13:10:28.198] [sctp] [debug] SCTP association setup ascId[249]
+[2023-03-24 13:10:28.198] [ngap] [debug] Sending NG Setup Request
+[2023-03-24 13:10:28.199] [ngap] [debug] NG Setup Response received
+[2023-03-24 13:10:28.199] [ngap] [info] NG Setup procedure is successful
+[2023-03-24 13:13:08.354] [rrc] [debug] UE[1] new signal detected
+[2023-03-24 13:13:08.354] [rrc] [info] RRC Setup for UE[1]
+[2023-03-24 13:13:08.355] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-03-24 13:13:08.369] [ngap] [debug] Initial Context Setup Request received
+[2023-03-24 13:13:08.581] [ngap] [info] PDU session resource(s) setup for UE[1] count[1]
+[2023-03-26 13:00:32.955] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-26 13:00:32.955] [sctp] [warning] Unhandled SCTP notification received
+[2023-03-26 13:00:32.955] [ngap] [error] Association terminated for AMF[2]
+[2023-03-26 13:00:32.955] [ngap] [debug] Removing AMF context[2]
+2023-03-27 06:01:00 Starting trace on UE and gNB
+2023-03-27 06:33:20 Starting trace on UE and gNB
+[2023-03-27 06:36:43.953] [rls] [debug] UE[1] signal lost
+2023-03-27 06:54:48 Stopping all gNBs
+2023-03-27 07:13:02 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-27 07:13:02.874] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-27 07:13:02.876] [sctp] [error] Connecting to 10.0.0.6:38412 failed. SCTP could not connect: Connection refused
+[2023-03-27 07:14:32.908] [rrc] [debug] UE[1] new signal detected
+[2023-03-27 07:14:35.111] [rls] [debug] UE[1] signal lost
+[2023-03-27 07:18:33.415] [rrc] [debug] UE[2] new signal detected
+[2023-03-27 07:18:35.417] [rls] [debug] UE[2] signal lost
+[2023-03-27 07:20:19.903] [rrc] [debug] UE[3] new signal detected
+[2023-03-27 07:20:38.237] [rrc] [debug] UE[4] new signal detected
+[2023-03-27 07:20:40.040] [rls] [debug] UE[3] signal lost
+[2023-03-27 07:21:03.834] [rrc] [debug] UE[5] new signal detected
+[2023-03-27 07:21:05.637] [rls] [debug] UE[4] signal lost
+[2023-03-27 07:21:28.243] [rrc] [debug] UE[6] new signal detected
+[2023-03-27 07:21:30.045] [rls] [debug] UE[5] signal lost
+[2023-03-27 07:21:53.839] [rrc] [debug] UE[7] new signal detected
+[2023-03-27 07:21:55.642] [rls] [debug] UE[6] signal lost
+[2023-03-27 07:22:18.248] [rrc] [debug] UE[8] new signal detected
+[2023-03-27 07:22:20.050] [rls] [debug] UE[7] signal lost
+[2023-03-27 07:24:57.261] [rls] [debug] UE[8] signal lost
+[2023-03-27 07:25:08.547] [rrc] [debug] UE[9] new signal detected
+[2023-03-27 07:25:26.865] [rrc] [debug] UE[10] new signal detected
+[2023-03-27 07:25:28.667] [rls] [debug] UE[9] signal lost
+[2023-03-27 07:25:46.065] [rls] [debug] UE[10] signal lost
+2023-03-27 07:25:54 Stopping all gNBs
+2023-03-27 07:27:10 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-27 07:27:10.735] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-27 07:27:10.738] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-27 07:27:10.738] [sctp] [debug] SCTP association setup ascId[250]
+[2023-03-27 07:27:10.738] [ngap] [debug] Sending NG Setup Request
+[2023-03-27 07:27:10.738] [ngap] [debug] NG Setup Response received
+[2023-03-27 07:27:10.738] [ngap] [info] NG Setup procedure is successful
+[2023-03-27 07:28:43.935] [rrc] [debug] UE[1] new signal detected
+[2023-03-27 07:28:45.937] [rls] [debug] UE[1] signal lost
+2023-03-27 10:12:21 Starting trace on UE and gNB
+2023-03-27 10:28:11 Stopping the trace on UE and gNB
+tcpdump: no process found
+2023-03-27 10:30:39 Starting trace on UE and gNB
+tcpdump: listening on any, link-type LINUX_SLL (Linux cooked v1), capture size 262144 bytes
+2023-03-27 10:33:11 Stopping the trace on UE and gNB
+939 packets captured
+1053 packets received by filter
+0 packets dropped by kernel
+2023-03-27 10:35:30 Stopping the trace on UE and gNB
+tcpdump: no process found
+2023-03-27 10:37:55 Stopping all gNBs
+2023-03-27 10:38:48 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-27 10:38:48.172] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-27 10:38:48.174] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-27 10:38:48.174] [sctp] [debug] SCTP association setup ascId[251]
+[2023-03-27 10:38:48.174] [ngap] [debug] Sending NG Setup Request
+[2023-03-27 10:38:48.174] [ngap] [debug] NG Setup Response received
+[2023-03-27 10:38:48.174] [ngap] [info] NG Setup procedure is successful
+[2023-03-27 10:40:19.746] [rrc] [debug] UE[1] new signal detected
+[2023-03-27 10:40:19.748] [rrc] [info] RRC Setup for UE[1]
+[2023-03-27 10:40:19.749] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-03-27 10:40:19.761] [ngap] [debug] Initial Context Setup Request received
+[2023-03-27 10:40:19.974] [ngap] [info] PDU session resource(s) setup for UE[1] count[1]
+[2023-03-27 10:41:08.598] [rls] [debug] UE[1] signal lost
+[2023-03-27 10:43:56.153] [rrc] [debug] UE[2] new signal detected
+[2023-03-27 10:43:56.160] [rrc] [info] RRC Setup for UE[2]
+[2023-03-27 10:43:56.161] [ngap] [debug] Initial NAS message received from UE[2]
+[2023-03-27 10:43:56.161] [ngap] [debug] UE Context Release Command received
+[2023-03-27 10:43:56.161] [rrc] [info] Releasing RRC connection for UE[1]
+[2023-03-27 10:43:58.964] [rls] [debug] UE[2] signal lost
+[2023-03-27 10:44:26.186] [ngap] [debug] UE Context Release Command received
+[2023-03-27 10:44:26.186] [rrc] [info] Releasing RRC connection for UE[2]
+[2023-03-27 10:45:53.792] [rrc] [debug] UE[3] new signal detected
+[2023-03-27 10:45:53.793] [rrc] [info] RRC Setup for UE[3]
+[2023-03-27 10:45:53.793] [ngap] [debug] Initial NAS message received from UE[3]
+[2023-03-27 10:45:53.803] [ngap] [debug] Initial Context Setup Request received
+[2023-03-27 10:45:54.010] [ngap] [info] PDU session resource(s) setup for UE[3] count[1]
+[2023-03-27 10:46:01.419] [rls] [debug] UE[3] signal lost
+[2023-03-27 10:46:04.394] [rrc] [debug] UE[4] new signal detected
+[2023-03-27 10:46:04.400] [rrc] [info] RRC Setup for UE[4]
+[2023-03-27 10:46:04.401] [ngap] [debug] Initial NAS message received from UE[4]
+[2023-03-27 10:46:04.402] [ngap] [debug] UE Context Release Command received
+[2023-03-27 10:46:04.402] [rrc] [info] Releasing RRC connection for UE[3]
+[2023-03-27 10:46:04.412] [ngap] [debug] Initial Context Setup Request received
+[2023-03-27 10:46:04.621] [ngap] [info] PDU session resource(s) setup for UE[4] count[1]
+[2023-03-27 10:46:09.828] [rls] [debug] UE[4] signal lost
+[2023-03-27 10:47:47.517] [rrc] [debug] UE[5] new signal detected
+[2023-03-27 10:47:47.520] [rrc] [info] RRC Setup for UE[5]
+[2023-03-27 10:47:47.520] [ngap] [debug] Initial NAS message received from UE[5]
+[2023-03-27 10:47:47.522] [ngap] [debug] UE Context Release Command received
+[2023-03-27 10:47:47.522] [rrc] [info] Releasing RRC connection for UE[4]
+[2023-03-27 10:47:47.532] [ngap] [debug] Initial Context Setup Request received
+[2023-03-27 10:47:47.741] [ngap] [info] PDU session resource(s) setup for UE[5] count[1]
+[2023-03-28 09:00:11.426] [rls] [debug] UE[5] signal lost
+2023-03-28 12:51:45 Starting trace on UE and gNB
+tcpdump: listening on any, link-type LINUX_SLL (Linux cooked v1), capture size 262144 bytes
+2023-03-28 12:51:53 Stopping the trace on UE and gNB
+55 packets captured
+106 packets received by filter
+0 packets dropped by kernel
+2023-03-28 12:52:29 Starting trace on UE and gNB
+tcpdump: listening on any, link-type LINUX_SLL (Linux cooked v1), capture size 262144 bytes
+[2023-03-28 12:53:32.751] [rrc] [debug] UE[6] new signal detected
+[2023-03-28 12:53:32.753] [rrc] [info] RRC Setup for UE[6]
+[2023-03-28 12:53:32.753] [ngap] [debug] Initial NAS message received from UE[6]
+[2023-03-28 12:53:32.760] [ngap] [debug] UE Context Release Command received
+[2023-03-28 12:53:32.760] [rrc] [info] Releasing RRC connection for UE[6]
+[2023-03-28 12:53:47.833] [rls] [debug] UE[6] signal lost
+[2023-03-28 12:57:54.809] [rrc] [debug] UE[7] new signal detected
+[2023-03-28 12:57:54.809] [rrc] [info] RRC Setup for UE[7]
+[2023-03-28 12:57:54.810] [ngap] [debug] Initial NAS message received from UE[7]
+[2023-03-28 12:57:54.814] [ngap] [debug] UE Context Release Command received
+[2023-03-28 12:57:54.814] [rrc] [info] Releasing RRC connection for UE[7]
+[2023-03-28 12:58:03.254] [rls] [debug] UE[7] signal lost
+2023-03-28 12:58:10 Stopping all gNBs
+2023-03-28 12:58:27 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-28 12:58:27.657] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-28 12:58:27.659] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-28 12:58:27.659] [sctp] [debug] SCTP association setup ascId[252]
+[2023-03-28 12:58:27.659] [ngap] [debug] Sending NG Setup Request
+[2023-03-28 12:58:27.659] [ngap] [debug] NG Setup Response received
+[2023-03-28 12:58:27.659] [ngap] [info] NG Setup procedure is successful
+[2023-03-28 12:58:41.597] [rrc] [debug] UE[1] new signal detected
+[2023-03-28 12:58:41.601] [rrc] [info] RRC Setup for UE[1]
+[2023-03-28 12:58:41.601] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-03-28 12:58:41.605] [ngap] [debug] UE Context Release Command received
+[2023-03-28 12:58:41.605] [rrc] [info] Releasing RRC connection for UE[1]
+[2023-03-28 12:58:49.815] [rls] [debug] UE[1] signal lost
+[2023-03-28 12:58:52.257] [rrc] [debug] UE[2] new signal detected
+[2023-03-28 12:58:52.258] [rrc] [info] RRC Setup for UE[2]
+[2023-03-28 12:58:52.258] [ngap] [debug] Initial NAS message received from UE[2]
+[2023-03-28 12:58:52.269] [ngap] [debug] Initial Context Setup Request received
+[2023-03-28 12:58:52.480] [ngap] [info] PDU session resource(s) setup for UE[2] count[1]
+[2023-03-28 12:58:58.888] [rls] [debug] UE[2] signal lost
+[2023-03-28 12:59:17.815] [rrc] [debug] UE[3] new signal detected
+[2023-03-28 12:59:20.315] [rrc] [info] RRC Setup for UE[3]
+[2023-03-28 12:59:20.316] [ngap] [debug] Initial NAS message received from UE[3]
+[2023-03-28 12:59:20.316] [ngap] [debug] UE Context Release Command received
+[2023-03-28 12:59:20.316] [rrc] [info] Releasing RRC connection for UE[2]
+[2023-03-28 12:59:20.326] [ngap] [debug] Initial Context Setup Request received
+[2023-03-28 12:59:20.534] [ngap] [info] PDU session resource(s) setup for UE[3] count[1]
+[2023-03-28 12:59:26.155] [rls] [debug] UE[3] signal lost
+2023-03-28 13:00:37 Stopping the trace on UE and gNB
+2778 packets captured
+3098 packets received by filter
+0 packets dropped by kernel
+2023-03-28 13:01:17 Starting trace on UE and gNB
+tcpdump: listening on any, link-type LINUX_SLL (Linux cooked v1), capture size 262144 bytes
+[2023-03-28 13:02:24.557] [rrc] [debug] UE[4] new signal detected
+[2023-03-28 13:02:24.561] [rrc] [info] RRC Setup for UE[4]
+[2023-03-28 13:02:24.561] [ngap] [debug] Initial NAS message received from UE[4]
+[2023-03-28 13:02:24.563] [ngap] [debug] UE Context Release Command received
+[2023-03-28 13:02:24.563] [rrc] [info] Releasing RRC connection for UE[3]
+[2023-03-28 13:02:24.575] [ngap] [debug] Initial Context Setup Request received
+[2023-03-28 13:02:41.686] [rls] [debug] UE[4] signal lost
+2023-03-28 13:03:12 Stopping the trace on UE and gNB
+664 packets captured
+775 packets received by filter
+0 packets dropped by kernel
+[2023-03-28 13:19:20.062] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-28 13:19:20.062] [ngap] [error] Association terminated for AMF[2]
+[2023-03-28 13:19:20.062] [ngap] [debug] Removing AMF context[2]
+[2023-03-28 13:55:07.213] [rrc] [debug] UE[5] new signal detected
+[2023-03-28 13:55:07.213] [rrc] [info] RRC Setup for UE[5]
+[2023-03-28 13:55:07.213] [ngap] [debug] Initial NAS message received from UE[5]
+[2023-03-28 13:55:07.213] [ngap] [error] AMF selection for UE[5] failed. Could not find a suitable AMF.
+[2023-03-28 13:55:07.213] [ngap] [error] AMF context not found with id: 0
+[2023-03-28 13:55:22.603] [rrc] [debug] UE[6] new signal detected
+[2023-03-28 13:55:24.205] [rls] [debug] UE[5] signal lost
+[2023-03-28 13:55:32.238] [rrc] [info] RRC Setup for UE[6]
+[2023-03-28 13:55:32.238] [ngap] [debug] Initial NAS message received from UE[6]
+[2023-03-28 13:55:32.238] [ngap] [error] AMF selection for UE[6] failed. Could not find a suitable AMF.
+[2023-03-28 13:55:32.238] [ngap] [error] AMF context not found with id: 0
+[2023-03-28 13:55:48.201] [rrc] [debug] UE[7] new signal detected
+[2023-03-28 13:55:49.803] [rls] [debug] UE[6] signal lost
+[2023-03-28 13:55:57.264] [rrc] [info] RRC Setup for UE[7]
+[2023-03-28 13:55:57.265] [ngap] [debug] Initial NAS message received from UE[7]
+[2023-03-28 13:55:57.265] [ngap] [error] AMF selection for UE[7] failed. Could not find a suitable AMF.
+[2023-03-28 13:55:57.265] [ngap] [error] AMF context not found with id: 0
+[2023-03-28 13:56:12.609] [rrc] [debug] UE[8] new signal detected
+[2023-03-28 13:56:14.210] [rls] [debug] UE[7] signal lost
+[2023-03-28 13:56:23.410] [rls] [debug] UE[8] signal lost
+2023-03-28 13:57:40 Stopping all gNBs
+2023-03-28 13:57:50 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-28 13:57:50.334] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-28 13:57:50.336] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-28 13:57:50.336] [sctp] [debug] SCTP association setup ascId[253]
+[2023-03-28 13:57:50.336] [ngap] [debug] Sending NG Setup Request
+[2023-03-28 13:57:50.337] [ngap] [debug] NG Setup Response received
+[2023-03-28 13:57:50.337] [ngap] [info] NG Setup procedure is successful
+[2023-03-28 13:58:06.341] [rrc] [debug] UE[1] new signal detected
+[2023-03-28 13:58:06.344] [rrc] [info] RRC Setup for UE[1]
+[2023-03-28 13:58:06.345] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-03-28 13:58:06.358] [ngap] [debug] Initial Context Setup Request received
+[2023-03-28 13:59:06.920] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-28 13:59:06.920] [sctp] [warning] Unhandled SCTP notification received
+[2023-03-28 13:59:06.920] [ngap] [error] Association terminated for AMF[2]
+[2023-03-28 13:59:06.920] [ngap] [debug] Removing AMF context[2]
+[2023-03-28 13:59:11.406] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 13:59:27.815] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 13:59:44.439] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 14:00:00.455] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 14:00:16.471] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 14:00:32.487] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 14:00:49.289] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 14:01:05.521] [ngap] [error] AMF context not found with id: 2
+2023-03-28 14:01:08 Stopping all gNBs
+2023-03-28 14:01:21 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-28 14:01:21.098] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-28 14:01:21.100] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-28 14:01:21.100] [sctp] [debug] SCTP association setup ascId[254]
+[2023-03-28 14:01:21.100] [ngap] [debug] Sending NG Setup Request
+[2023-03-28 14:01:21.101] [ngap] [debug] NG Setup Response received
+[2023-03-28 14:01:21.101] [ngap] [info] NG Setup procedure is successful
+[2023-03-28 14:01:31.196] [rrc] [debug] UE[1] new signal detected
+[2023-03-28 14:01:31.197] [rrc] [info] RRC Setup for UE[1]
+[2023-03-28 14:01:31.197] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-03-28 14:01:31.210] [ngap] [debug] Initial Context Setup Request received
+[2023-03-28 14:02:36.311] [rls] [debug] UE[1] signal lost
+[2023-03-28 14:02:44.029] [rrc] [debug] UE[2] new signal detected
+[2023-03-28 14:02:44.029] [rrc] [info] RRC Setup for UE[2]
+[2023-03-28 14:02:44.029] [ngap] [debug] Initial NAS message received from UE[2]
+[2023-03-28 14:02:44.031] [ngap] [debug] UE Context Release Command received
+[2023-03-28 14:02:44.031] [rrc] [info] Releasing RRC connection for UE[1]
+[2023-03-28 14:02:44.038] [ngap] [debug] Initial Context Setup Request received
+[2023-03-28 14:03:43.875] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-28 14:03:43.875] [ngap] [error] Association terminated for AMF[2]
+[2023-03-28 14:03:43.875] [ngap] [debug] Removing AMF context[2]
+[2023-03-28 14:03:48.092] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 14:04:04.401] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 14:04:21.125] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 14:04:37.141] [ngap] [error] AMF context not found with id: 2
+[2023-03-28 14:04:49.728] [rls] [debug] UE[2] signal lost
+2023-03-28 14:04:56 already have 1 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-28 14:04:56.538] [rls-udp] [error] RLS failure [Socket bind failed: Address already in use]
+[2023-03-28 14:04:56.538] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-28 14:04:56.538] [gtp] [error] GTP/UDP task could not be created. Socket bind failed: Address already in use
+[2023-03-28 14:04:56.540] [sctp] [error] Connecting to 10.0.0.6:38412 failed. SCTP could not connect: Connection refused
+2023-03-28 14:05:15 Stopping all gNBs
+2023-03-28 14:05:55 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-03-28 14:05:55.087] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-03-28 14:05:55.089] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-03-28 14:05:55.089] [sctp] [debug] SCTP association setup ascId[255]
+[2023-03-28 14:05:55.089] [ngap] [debug] Sending NG Setup Request
+[2023-03-28 14:05:55.090] [ngap] [debug] NG Setup Response received
+[2023-03-28 14:05:55.090] [ngap] [info] NG Setup procedure is successful
+[2023-03-28 14:06:23.041] [rrc] [debug] UE[1] new signal detected
+[2023-03-28 14:06:23.042] [rrc] [info] RRC Setup for UE[1]
+[2023-03-28 14:06:23.042] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-03-28 14:06:23.054] [ngap] [debug] Initial Context Setup Request received
+[2023-03-28 14:06:23.265] [ngap] [info] PDU session resource(s) setup for UE[1] count[1]
+[2023-03-29 06:12:47.748] [sctp] [debug] SCTP association shutdown (clientId: 2)
+[2023-03-29 06:12:47.748] [sctp] [warning] Unhandled SCTP notification received
+[2023-03-29 06:12:47.748] [ngap] [error] Association terminated for AMF[2]
+[2023-03-29 06:12:47.748] [ngap] [debug] Removing AMF context[2]
+2023-04-19 12:25:41 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-04-19 12:25:41.104] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-04-19 12:25:41.106] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-04-19 12:25:41.106] [sctp] [debug] SCTP association setup ascId[267]
+[2023-04-19 12:25:41.106] [ngap] [debug] Sending NG Setup Request
+[2023-04-19 12:25:41.107] [ngap] [debug] NG Setup Response received
+[2023-04-19 12:25:41.107] [ngap] [info] NG Setup procedure is successful
+[2023-04-19 12:29:43.310] [rrc] [debug] UE[1] new signal detected
+[2023-04-19 12:29:43.310] [rrc] [info] RRC Setup for UE[1]
+[2023-04-19 12:29:43.311] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-04-19 12:29:43.316] [ngap] [debug] UE Context Release Command received
+[2023-04-19 12:29:43.317] [rrc] [info] Releasing RRC connection for UE[1]
+[2023-04-19 12:36:05.252] [rrc] [debug] UE[2] new signal detected
+[2023-04-19 12:36:05.253] [rrc] [info] RRC Setup for UE[2]
+[2023-04-19 12:36:05.253] [ngap] [debug] Initial NAS message received from UE[2]
+[2023-04-19 12:36:05.264] [ngap] [debug] Initial Context Setup Request received
+[2023-04-19 12:36:05.476] [ngap] [info] PDU session resource(s) setup for UE[2] count[1]
+[2023-04-19 12:41:44.030] [rrc] [info] RRC Setup for UE[1]
+[2023-04-19 12:41:44.030] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-04-19 12:41:44.041] [ngap] [debug] UE Context Release Command received
+[2023-04-19 12:41:44.041] [rrc] [info] Releasing RRC connection for UE[1]
+[2023-04-19 12:43:17.817] [rls] [debug] UE[1] signal lost
+[2023-04-19 12:43:17.817] [rls] [debug] UE[2] signal lost
+2023-04-19 12:44:15 Stopping all gNBs
+2023-04-27 00:32:45 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-04-27 00:32:45.456] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-04-27 00:32:45.458] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-04-27 00:32:45.458] [sctp] [debug] SCTP association setup ascId[279]
+[2023-04-27 00:32:45.458] [ngap] [debug] Sending NG Setup Request
+[2023-04-27 00:32:45.459] [ngap] [debug] NG Setup Response received
+[2023-04-27 00:32:45.459] [ngap] [info] NG Setup procedure is successful
+[2023-04-27 00:50:24.297] [rrc] [debug] UE[1] new signal detected
+[2023-04-27 00:50:24.300] [rrc] [info] RRC Setup for UE[1]
+[2023-04-27 00:50:24.301] [ngap] [debug] Initial NAS message received from UE[1]
+[2023-04-27 00:50:24.307] [ngap] [debug] UE Context Release Command received
+[2023-04-27 00:50:24.307] [rrc] [info] Releasing RRC connection for UE[1]
+[2023-04-27 00:53:14.188] [rls] [debug] UE[1] signal lost
+[2023-04-27 00:54:57.729] [rrc] [debug] UE[2] new signal detected
+[2023-04-27 00:54:57.729] [rrc] [info] RRC Setup for UE[2]
+[2023-04-27 00:54:57.729] [ngap] [debug] Initial NAS message received from UE[2]
+[2023-04-27 00:54:57.742] [ngap] [debug] Initial Context Setup Request received
+[2023-04-27 00:54:57.958] [ngap] [info] PDU session resource(s) setup for UE[2] count[1]
+[2023-04-27 00:56:21.804] [rls] [debug] UE[2] signal lost
+[2023-04-27 00:56:37.142] [rrc] [debug] UE[3] new signal detected
+[2023-04-27 00:56:37.143] [rrc] [info] RRC Setup for UE[3]
+[2023-04-27 00:56:37.143] [ngap] [debug] Initial NAS message received from UE[3]
+[2023-04-27 00:56:37.144] [ngap] [debug] UE Context Release Command received
+[2023-04-27 00:56:37.144] [rrc] [info] Releasing RRC connection for UE[2]
+[2023-04-27 00:56:37.153] [ngap] [debug] Initial Context Setup Request received
+[2023-04-27 00:56:37.361] [ngap] [info] PDU session resource(s) setup for UE[3] count[1]
+[2023-04-27 01:02:16.645] [rls] [debug] UE[3] signal lost
+[2023-04-27 01:27:25.738] [rrc] [debug] UE[4] new signal detected
+[2023-04-27 01:27:25.739] [rrc] [info] RRC Setup for UE[4]
+[2023-04-27 01:27:25.739] [ngap] [debug] Initial NAS message received from UE[4]
+[2023-04-27 01:27:25.740] [ngap] [debug] UE Context Release Command received
+[2023-04-27 01:27:25.740] [rrc] [info] Releasing RRC connection for UE[3]
+[2023-04-27 01:27:25.752] [ngap] [debug] Initial Context Setup Request received
+[2023-04-27 01:27:25.961] [ngap] [info] PDU session resource(s) setup for UE[4] count[1]
+[2023-04-27 01:27:50.213] [rls] [debug] UE[4] signal lost
+2023-04-27 01:38:27 Stopping all gNBs
+2023-04-27 01:40:33 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-04-27 01:40:33.771] [rls-udp] [error] RLS failure [Socket bind failed: Cannot assign requested address]
+[2023-04-27 01:40:33.771] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-04-27 01:40:33.774] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-04-27 01:40:33.774] [sctp] [debug] SCTP association setup ascId[280]
+[2023-04-27 01:40:33.774] [ngap] [debug] Sending NG Setup Request
+[2023-04-27 01:40:33.774] [ngap] [debug] NG Setup Response received
+[2023-04-27 01:40:33.774] [ngap] [info] NG Setup procedure is successful
+2023-04-27 01:48:51 Stopping all gNBs
+2023-04-27 01:58:31 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-04-27 01:58:31.068] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-04-27 01:58:31.070] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-04-27 01:58:31.070] [sctp] [debug] SCTP association setup ascId[281]
+[2023-04-27 01:58:31.070] [ngap] [debug] Sending NG Setup Request
+[2023-04-27 01:58:31.070] [ngap] [debug] NG Setup Response received
+[2023-04-27 01:58:31.070] [ngap] [info] NG Setup procedure is successful
+2023-04-27 02:47:44 Stopping all gNBs
+2023-04-27 02:49:25 already have 0 gNB instances running, starting one more instance
+UERANSIM v3.2.6
+[2023-04-27 02:49:25.279] [sctp] [info] Trying to establish SCTP connection... (10.0.0.6:38412)
+[2023-04-27 02:49:25.281] [sctp] [info] SCTP connection established (10.0.0.6:38412)
+[2023-04-27 02:49:25.281] [sctp] [debug] SCTP association setup ascId[283]
+[2023-04-27 02:49:25.281] [ngap] [debug] Sending NG Setup Request
+[2023-04-27 02:49:25.281] [ngap] [debug] NG Setup Response received
+[2023-04-27 02:49:25.281] [ngap] [info] NG Setup procedure is successful
+2023-04-27 02:50:50 Stopping all gNBs
